@@ -65,7 +65,7 @@ body {
 .main_img .main_img_link {
   margin-top: 15px;
   color: #ffffff;
-  font-size: 24px;
+  font-size: 20px;
   text-decoration: none;
   animation: fadeInUp 1.4s ease-out both;
 }
@@ -102,7 +102,7 @@ body {
 }
 .links .link span {
   color: #272727;
-  font-size: 18px;
+  font-size: 15px;
 }
 .links .link:hover {
   background-color: rgba(255, 255, 255, 0.8666666667);
